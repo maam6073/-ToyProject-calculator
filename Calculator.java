@@ -1,4 +1,3 @@
-import java.util.*;
 import java.io.*;
 public class Calculator {
     private static double num1;
@@ -6,7 +5,7 @@ public class Calculator {
     private static double num2;
     private static double result;
 
-    public static TwoValues calcul() throws IOException {
+    public static TwoValues cal() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("계산기 프로그램입니다.");
 
