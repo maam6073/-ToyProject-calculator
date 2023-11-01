@@ -15,5 +15,8 @@ public class Main {
         //VisitorForecast.visitorForecast1();
         //VisitorForecast.visitorForecast2();
         //VisitorForecast.visitorForecast3();
+
+        //자막 순화 프로그램
+        SubtitleFilter.subTitleFilter();
     }
 }
