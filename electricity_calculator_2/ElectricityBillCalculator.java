@@ -1,3 +1,5 @@
+package electricity_calculator_2;
+
 import java.io.*;
 
 public class ElectricityBillCalculator {

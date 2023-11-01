@@ -1,4 +1,5 @@
-import java.util.*;
+package gugudan_3;
+
 import java.io.*;
 public class Gugudan {
     static int startGugudan = 2;

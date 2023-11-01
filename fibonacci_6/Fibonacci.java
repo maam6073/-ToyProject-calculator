@@ -1,4 +1,5 @@
-import java.util.*;
+package fibonacci_6;
+
 import java.io.*;
 public class Fibonacci {
     private static int num;

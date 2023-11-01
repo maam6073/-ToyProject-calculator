@@ -3,23 +3,23 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         //계산기
-        //Calculator.cal();
+        //calculator.Calculator.cal();
 
         //전기 요금 계산기
-        //ElectricityBillCalculator.electricityCal();
+        //electricity_calculator.ElectricityBillCalculator.electricityCal();
 
         //구구단
-        //Gugudan.gugudan();
+        //Gugudan.Gugudan.gugudan();
 
         //방문자 수 예측
-        //VisitorForecast.visitorForecast1();
-        //VisitorForecast.visitorForecast2();
-        //VisitorForecast.visitorForecast3();
+        //visitorfore_cast.VisitorForecast.visitorForecast1();
+        //visitorfore_cast.VisitorForecast.visitorForecast2();
+        //visitorfore_cast.VisitorForecast.visitorForecast3();
 
         //자막 순화
-        //SubtitleFilter.subTitleFilter();
+        //subtitle_filter.SubtitleFilter.subTitleFilter();
 
         //피보나치수열
-        Fibonacci.fibonacci();
+       // fibonacci.Fibonacci.fibonacci();
     }
 }

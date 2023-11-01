@@ -1,3 +1,5 @@
+package calculator_1;
+
 public class TwoValues {
     private int intNum;
     private double doubleNum;

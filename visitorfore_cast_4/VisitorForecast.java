@@ -1,3 +1,5 @@
+package visitorfore_cast_4;
+
 import java.io.*;
 
 public class VisitorForecast {

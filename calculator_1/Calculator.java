@@ -1,3 +1,5 @@
+package calculator_1;
+
 import java.io.*;
 public class Calculator {
     private static double num1;
